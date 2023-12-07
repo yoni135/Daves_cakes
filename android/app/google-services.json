@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140873861355",
+    "project_id": "koba-8ed9e",
+    "storage_bucket": "koba-8ed9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140873861355:android:f9d2865d759f5f82cb16ae",
+        "android_client_info": {
+          "package_name": "com.example.daves_cakes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4n-yKKgHB6h0mKStJWhNVjWI4PBuVIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
